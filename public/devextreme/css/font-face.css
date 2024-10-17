@@ -1,0 +1,98 @@
+/* noto-kufi-arabic-100 - arabic Thin */
+@font-face {
+    font-family: "Noto Kufi Arabic";
+    font-style: normal;
+    font-weight: 100;
+    src: local("Noto Kufi Arabic Thin"),local("Noto Kufi Arabic-Thin"),
+         url("fonts/noto-kufi-arabic-v15-arabic-100.woff2") format("woff2"),
+         url("fonts/noto-kufi-arabic-v15-arabic-100.woff") format("woff"),
+         url("fonts/noto-kufi-arabic-v15-arabic-100.ttf") format("truetype");
+}
+
+/* noto-kufi-arabic-200 - arabic ExtraLight */
+@font-face {
+    font-family: "Noto Kufi Arabic";
+    font-style: normal;
+    font-weight: 200;
+    src: local("Noto Kufi Arabic ExtraLight"),local("Noto Kufi Arabic-ExtraLight"),
+         url("fonts/noto-kufi-arabic-v15-arabic-200.woff2") format("woff2"),
+         url("fonts/noto-kufi-arabic-v15-arabic-200.woff") format("woff"),
+         url("fonts/noto-kufi-arabic-v15-arabic-200.ttf") format("truetype");
+}
+
+/* noto-kufi-arabic-300 - arabic Light */
+@font-face {
+    font-family: "Noto Kufi Arabic";
+    font-style: normal;
+    font-weight: 300;
+    src: local("Noto Kufi Arabic Light"),local("Noto Kufi Arabic Light"),
+         url("fonts/noto-kufi-arabic-v15-arabic-300.woff2") format("woff2"),
+         url("fonts/noto-kufi-arabic-v15-arabic-300.woff") format("woff"),
+         url("fonts/noto-kufi-arabic-v15-arabic-300.ttf") format("truetype");
+}
+
+/* noto-kufi-arabic-regular - arabic Regular */
+@font-face {
+    font-family: "Noto Kufi Arabic";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Noto Kufi Arabic Regular"),local("Noto Kufi Arabic-Regular"),
+         url("fonts/noto-kufi-arabic-v15-arabic-regular.woff2") format("woff2"),
+         url("fonts/noto-kufi-arabic-v15-arabic-regular.woff") format("woff"),
+         url("fonts/noto-kufi-arabic-v15-arabic-regular.ttf") format("truetype");
+}
+
+/* noto-kufi-arabic-500 - arabic Medium */
+@font-face {
+    font-family: "Noto Kufi Arabic";
+    font-style: normal;
+    font-weight: 500;
+    src: local("Noto Kufi Arabic Medium"),local("Noto Kufi Arabic Medium"),
+         url("fonts/noto-kufi-arabic-v15-arabic-500.woff2") format("woff2"),
+         url("fonts/noto-kufi-arabic-v15-arabic-500.woff") format("woff"),
+         url("fonts/noto-kufi-arabic-v15-arabic-500.ttf") format("truetype");
+}
+
+/* noto-kufi-arabic-600 - arabic SemiBold */
+@font-face {
+    font-family: "Noto Kufi Arabic";
+    font-style: normal;
+    font-weight: 600;
+    src: local("Noto Kufi Arabic SemiBold"),local("Noto Kufi Arabic-SemiBold"),
+         url("fonts/noto-kufi-arabic-v15-arabic-600.woff2") format("woff2"),
+         url("fonts/noto-kufi-arabic-v15-arabic-600.woff") format("woff"),
+         url("fonts/noto-kufi-arabic-v15-arabic-600.ttf") format("truetype");
+}
+
+/* noto-kufi-arabic-700 - arabic Bold */
+@font-face {
+    font-family: "Noto Kufi Arabic";
+    font-style: normal;
+    font-weight: 700;
+    src: local("Noto Kufi Arabic Bold"),local("Noto Kufi Arabic-Bold"),
+         url("fonts/noto-kufi-arabic-v15-arabic-700.woff2") format("woff2"),
+         url("fonts/noto-kufi-arabic-v15-arabic-700.woff") format("woff"),
+         url("fonts/noto-kufi-arabic-v15-arabic-700.ttf") format("truetype");
+}
+
+/* noto-kufi-arabic-800 - arabic ExtraBold */
+@font-face {
+    font-family: "Noto Kufi Arabic";
+    font-style: normal;
+    font-weight: 800;
+    src: local("Noto Kufi Arabic ExtraBold"),local("Noto Kufi Arabic-ExtraBold"),
+         url("fonts/noto-kufi-arabic-v15-arabic-800.woff2") format("woff2"),
+         url("fonts/noto-kufi-arabic-v15-arabic-800.woff") format("woff"),
+         url("fonts/noto-kufi-arabic-v15-arabic-800.ttf") format("truetype");
+}
+
+/* noto-kufi-arabic-900 - arabic Black */
+@font-face {
+    font-family: "Noto Kufi Arabic";
+    font-style: normal;
+    font-weight: 900;
+    src: local("Noto Kufi Arabic Black"),local("Noto Kufi Arabic-Black"),
+         url("fonts/noto-kufi-arabic-v15-arabic-900.woff2") format("woff2"),
+         url("fonts/noto-kufi-arabic-v15-arabic-900.woff") format("woff"),
+         url("fonts/noto-kufi-arabic-v15-arabic-900.ttf") format("truetype");
+}
